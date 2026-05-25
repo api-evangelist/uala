@@ -1,0 +1,101 @@
+aid: uala
+name: Ualá
+description: >-
+  Ualá is an Argentine financial technology company and neobank founded in
+  2017 by Pierpaolo Barbieri, headquartered in Buenos Aires. The company
+  delivers a mobile-first financial ecosystem anchored by a Mastercard
+  prepaid/debit card linked to an in-app account, with a layered product
+  suite that includes credit cards, personal loans, savings accounts with
+  yield, fixed-term deposits, mutual funds (FCIs), stocks, bonds, CEDEARs,
+  insurance, bill payments, recharges, and international transfers. Its
+  merchant arm, Ualá Bis, provides payment links, online checkout, and POS
+  hardware (POS Mini and POS Pro) for SMBs and online stores, exposing a
+  public Cobros Online v2 API plus SDKs and pre-built integrations for
+  WooCommerce, Tienda Nube, Magento, and Empretienda. Ualá operates as a
+  regulated bank in Argentina (under BCRA oversight), has acquired ABC
+  Capital in Mexico to operate as a chartered Mexican bank, and is the
+  first technology-based company licensed as a financing entity by
+  Colombia's Financial Superintendence. The company reached a $3.2B
+  valuation following $195M in new equity in 2024, and reports more than
+  eight million users across Argentina, Mexico, and Colombia. UaláScore,
+  the company's AI-driven credit evaluation system, powers personalized
+  lending across markets. Public developer surface is limited to the
+  Ualá Bis merchant payments API; the consumer banking, lending, and
+  investing capabilities are not exposed as third-party developer APIs.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fintech
+  - Neobank
+  - Digital Banking
+  - Prepaid Card
+  - Mastercard
+  - Payments
+  - Lending
+  - Personal Loans
+  - Investing
+  - Brokerage
+  - Insurance
+  - Point Of Sale
+  - Merchant Acquiring
+  - Payment Links
+  - Latin America
+  - Argentina
+  - Mexico
+  - Colombia
+  - Financial Inclusion
+url: https://raw.githubusercontent.com/api-evangelist/uala/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.uala.com.ar
+  - type: WebsiteMexico
+    url: https://www.uala.mx
+  - type: WebsiteRegional
+    url: https://www.ua.la
+  - type: Merchant
+    url: https://www.ualabis.com.ar
+  - type: MerchantMexico
+    url: https://www.ualabis.com.mx
+  - type: Developers
+    url: https://developers.ualabis.com.ar
+  - type: Company
+    url: https://www.uala.com.ar/nosotros
+  - type: CompanyMexico
+    url: https://www.uala.mx/nosotros
+  - type: Blog
+    url: https://www.uala.com.ar/aula-uala/blog
+  - type: BlogMexico
+    url: https://www.uala.mx/aula-uala/blog
+  - type: Press
+    url: https://www.uala.com.ar/prensa
+  - type: PressRegional
+    url: https://www.ua.la/prensa
+  - type: PressMexico
+    url: https://www.uala.mx/prensa
+  - type: Careers
+    url: https://www.ua.la/sumate
+  - type: Contact
+    url: mailto:developers.ualabis@uala.com.ar
+  - type: Twitter
+    url: https://twitter.com/uala_arg
+  - type: TwitterMexico
+    url: https://twitter.com/uala_mex
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/uala
+  - type: Instagram
+    url: https://www.instagram.com/uala_arg
+  - type: YouTube
+    url: https://www.youtube.com/@uala
+  - type: TikTok
+    url: https://www.tiktok.com/@uala_arg
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ual%C3%A1
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
