@@ -52,6 +52,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/uala-domain-security.yml
   - type: Website
     url: https://www.uala.com.ar
   - type: WebsiteMexico
